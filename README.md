@@ -1,5 +1,5 @@
 # EgTafkeet
-function to translate Arabic number to letters (تحويل الارقام الى حروف )
+function to translate Arabic number to letters (تفقيط الارقام باللغة العربية)
 to use it
 write in your query 
 select dbo.DI_Tafkeet(yourNumuber)
